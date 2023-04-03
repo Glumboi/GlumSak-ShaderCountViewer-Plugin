@@ -1,0 +1,11 @@
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\bin\Debug\ShaderCountPlugin.dll
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\bin\Debug\ShaderCountPlugin.pdb
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\bin\Debug\System.Drawing.Common.dll
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\bin\Debug\Wpf.Ui.dll
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\bin\Debug\System.Drawing.Common.xml
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\bin\Debug\Wpf.Ui.xml
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\obj\Debug\GlumSak-ShaderCountViewer-Plugin.csproj.AssemblyReference.cache
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\obj\Debug\GlumSak-ShaderCountViewer-Plugin.csproj.CoreCompileInputs.cache
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\obj\Debug\GlumSak-ShaderCountViewer-Plugin.csproj.CopyComplete
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\obj\Debug\ShaderCountPlugin.dll
+F:\visual studio\repos2\GlumSak-ShaderCountViewer-Plugin\obj\Debug\ShaderCountPlugin.pdb

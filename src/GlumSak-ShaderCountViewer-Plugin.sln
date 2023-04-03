@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlumSak-ShaderCountViewer-Plugin", "GlumSak-ShaderCountViewer-Plugin.csproj", "{1C0B5711-E898-42F3-BE4F-406574F551CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0B5711-E898-42F3-BE4F-406574F551CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0B5711-E898-42F3-BE4F-406574F551CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0B5711-E898-42F3-BE4F-406574F551CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0B5711-E898-42F3-BE4F-406574F551CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37055056-0992-4068-B2CA-E9711079347E}
+	EndGlobalSection
+EndGlobal
